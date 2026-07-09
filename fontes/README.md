@@ -16,8 +16,8 @@ Caso o NotebookLM não importe bem a fonte web (#5), usei como alternativa a doc
 
 ## Checklist de upload
 
-- [ ] Fonte 1 carregada
-- [ ] Fonte 2 carregada
-- [ ] Fonte 3 carregada
-- [ ] Fonte 4 carregada
-- [ ] Fonte 5 carregada
+- [x] Fonte 1 carregada
+- [x] Fonte 2 carregada
+- [x] Fonte 3 carregada
+- [x] Fonte 4 carregada
+- [x] Fonte 5 carregada
